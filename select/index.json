@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Welcome to our party",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-13T13:02:15.749820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Welcome to Our Party",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/01_Welcome_to_Our_Party_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Welcome to our party",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/02_Welcome_to_our_party_嵐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "welcome to our party!",
+      "artist": "roshyw",
+      "has_synced": true,
+      "path": "select/03_welcome_to_our_party!_roshyw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "welcome to our party! (teenage popstar 2)",
+      "artist": "roshyw",
+      "has_synced": true,
+      "path": "select/04_welcome_to_our_party!_(teenage_popstar_2)_roshyw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "welcome to our party! (feat. dedgrl)",
+      "artist": "Roshyw",
+      "has_synced": true,
+      "path": "select/05_welcome_to_our_party!_(feat._dedgrl)_Roshyw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Welcome to our party",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Welcome_to_our_party_嵐.txt"
+    }
+  ]
+}
